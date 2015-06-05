@@ -1,7 +1,7 @@
 ---
 title:
   # Title must be 150 characters or less
-  "A Capitalized Title: Something about a great Discovery"
+  "Examining the explanatory model of the cultural continuity in Taiwan"
 author:
   - name: Liying Wang
     affiliation: '1'
@@ -15,15 +15,15 @@ affiliation:
     state: Washington
     country: USA
 output: rticles::plos_article
-csl: plos.csl
-#bibliography: library.bib
+#csl: plos.csl
+bibliography: myfile.bib
 ---
 
-###Introduction
+# Introduction {-}
 
-In this paper, I will focus on a debate about whether the separate cultural layers in Kiwulan (KWL) site belong to the same prehistoric ethnic group. The KWL site is located at Ilan city and near a riverside at the northern margin of the Ilan plain in Northeastern Taiwan. The site was excavated during 2001 to 2003 by the Department of Anthropology of National Taiwan University (Chen 2007). According to the archaeological remains, the site can be divided into a lower culture layer and an upper culture layer, dating from 1300B.P. to 800B.P. and 600B.P. to 100B.P., respectively, based on radiocarbon dates. However, there is a debate about whether the archaeological remains from both layers belong to the same culture or not. Chen (2004) argues that these two layers belong to the same culture based on similar pattern of artifacts. However, Chiu states that they belong to different culture or ethnic group due to the distinct style of mortuary practice. The following will further examine these two explanations.  
+In this paper, I will focus on a debate about whether the separate cultural layers in Kiwulan (KWL) site in Northern Taiwan belong to the same prehistoric ethnic group. The KWL site is located at Ilan city and near a riverside at the northern margin of the Ilan plain in Northeastern Taiwan. The site was excavated during 2001 to 2003 by the Department of Anthropology of National Taiwan University.[@Chen2004] According to the archaeological remains, the site can be divided into a lower culture layer and an upper culture layer, dating from 1300B.P. to 800B.P. and 600B.P. to 100B.P.respectively based on radiocarbon dates. However, there is a debate about whether the archaeological remains from both layers belong to the same culture or not, because the archaeological remains show both similar and different patterns. Chen (2004) argued that these two layers belong to the same culture based on similar pattern of artifacts. However, Chiu (2004) stated that they belong to different culture or ethnic group due to the distinct style of mortuary practice. The difference of these explanations shows distinct explanatory models in terms of archaeological evidence. The following I will examine these two explanations, explore the philosophical theories behinds them, discuss their strength and weakness, and conclude that combination of these two models might be a better way to explain the cultural continuity.
 
-###Archaeological evidence 
+# Archaeological evidence {-} 
 
 The excavation covered an area of 2,800 sqm and revealed hundreds of thousands of artifacts from a total of 262 archaeological excavation areas. The following I introduce the archaeological evidence found in these layers respectively.
 
@@ -37,28 +37,32 @@ For the pottery, there are different kinds of shape and form, including bowls, v
 The archaeological remains found in this period were more than lower culture layer. The archaeological evidence includes pottery, imported ceramics and stonewares, wooden artifacts such as table wares and tools, grinding stones, metal artifacts such as knives and points, imported ornaments such as glass beads, agates beads, and metal bracelets, pipes which made of stone, clay, and metal, local ornaments made of animal bones, shells, and wood, and fauna assemblage. In addition to artifacts, 90 burials and wooden pole structures were also excavated. These wooden poles were found aligned in a north-south direction with construction marks, which were interpreted as the remains of house structures. 
 The distribution of features shows that the cemetery is located at the north part of house structures, which indicates the settlement was organized in some order. According to historical records, this settlement was believed as the biggest settlement in the 17th century (Nakamura 1938). The potteries were usually decorated with geometric design, which is similar to the pottery in earlier period. For the burials, the common funerary utensils were wooden boards. In addition to imported ornaments, imported ceramics were also the common burials goods (Chen 2007). 
 
-###Links between evidence and behavior
+# Links between evidence and behavior {-}
+
 Chen (2007) focused on the similar archaeological remains in both layers. In both layer, he pointed out that they find similar burial goods, such as local pottery, glass beads, and agate beads. Although the forms and shapes of beads are not completely the same in both layers, he argued that the distribution and pattern of burial goods is similar. Agate beads and glass beads usually serve as necklace on deceased, and some small beads seem they are part of the decoration of clothes. In addition to beads, pottery is the common burial good in both layers. He states that the people from these two periods have similar mortuary practice based on the distribution of burial goods, especially for the ritual. Moreover, the pattern of pottery in both layers shows the similar surface treatment, stamped geometric decoration, which shows the same system of decoration and the same technique for making pots. For the households, both periods were found post holes and wooden poles, which indicates they might have similar household structures. He thought that if we focus on singular artifact, we might think these remains belong to different groups. But when examining all of the archaeological remains together, both layers indicate similar pattern of artifacts and shows some continuity of cultural element.  
 
 On the other hand, Chiu (2004) stresses the difference between these two layers mainly based on mortuary practice. The common burial in lower cultural layer is secondary burials and the people used slabs as funeral utensils; however, most burials in upper culture layer are primary with bodies in flexed position. Moreover, wood is the common funeral utensil in upper culture layer rather than slabs. Although people from both layers used beads as burial goods, the forms and shapes shows slightly different. For example, the lower culture layer was found glass earrings, which is absent in upper culture layer. Based on Person (1999) arguments, he stated that mortuary practices are social and political behaviors. Mortuary practice and associated burial goods are not only artifacts, but also rules and custom related to the core element of a culture. Besides, he believed that mortuary practice usually links to the ritual, the worldview, and the view of life and death of an ethnic group. The viewpoints for mortuary practice of an ethnic group seldom change and will pass down from generations to generations unless they face significant influence. Therefore, he stated that the people from tow layers belong to different cultures, because their mortuary practices are different, and there is no relevant evidence shows any factor which will affect the culture change if they are the same group.
 
-###Behavior at different scales 
+# Behavior at different scales 
 
-###Discussion
+# Discussion {-}
+
 1. Context of the monograph’s explanatory model
+
 The same culture hypothesis is based on the similar human practice on daily life, such as making pattery, living, and mortury practive. This viewpoint stress that we should examine the artifacts as a whole. On the other hand, different culture hypothesis thinks that mortury parctice reflects the view of life and death of an ethnic group, which is the core element in a cultue and seldom changes with time. However, style of pottery or household tends to be influenced by other culture. This approach emphasize that mortuary practice can be viewed as counterpart of society.
 
 2. Relevant philosophy of science
+
 I think Chen's (2007) argument is based on the inference of best explanation, because he examined all of the evidence found in these two periods, and thinks these two periods belongs to the same culture can fit most evidence we found so far. As Lipton (2000) mentions, a good explanation should require a cause which can explain both the fact and other possible phenomenon, and should explain as many phenomena as possible. I think Chen's argument fulfills these requirements, because his argument can explain different type of artifacts instead of singular evidence.  
 
 On the other hand, I think Chiu’s (2004) argument is based on the D-N model or unification. D-N model relies the logic connection and hypothesis building. In this case, it shows that Chiu's argument is based on the hypothesis that the mortuary practice is the core element in human culture and seldom changes with time unless they face significant influence. Also, any ethnic group has distinct mortuary practice. Because there is no evidence shows any factor that affects the mortuary practice between these two periods. By applying the D-N model, he infers that the people from two layers belong to different group based on the hypothesis of mortuary practice. Besides, I think his argument is also relative to unification.  
 
 3. Critique
-I think both arguments need more theoretical framework to support the inference. Although Chen's argument can explain more evidence in this site, there is no really connection that can explain the people belong to the same group. On the other hand, Chiu's argument only relies on the mortuary practice, which overlooked other possible phenomenon that can provide clues for this question. I think his argument should also consider other evidence in order to give better explanation.     
+I think both arguments need more theoretical framework to support the inference. Although Chen's argument can explain more evidence in this site, there is no really connection that can explain the people belong to the same group. On the other hand, Chiu's argument only relies on the mortuary practice, which overlooked other possible phenomenon that can provide clues for this question. I think his argument should also consider other evidence in order to give better explanation.[@Chiang2010]     
 
-###Conclusion
+# Conclusion {-}
 
-###Reference
+# Reference {-}
 Chiu, Hung-Lin
 2004  Investigations of Mortuary Behaviors and Cultural Change of the Kivulan Site in I-Lan County, Taiwan. 宜蘭縣礁溪鄉淇武蘭遺址出土墓葬研究—埋葬行為與文化變遷的觀察, Department of Anthropology, National Taiwan University. 
 
@@ -67,8 +71,7 @@ Chen, Yu-Pei
 
 2004	The significance of the Kiwulan site for understahnding the prehistoric period in Ilan Plain. 淇武蘭遺址發掘對蘭陽平原史前研究的意義. Ilan Study. 宜蘭研究第六屆學術研討會, 宜蘭: 宜蘭縣史館 6.
 
-Lin, Shu-fen
-2004 Environmental and Climatic Changes in Ilan Plain over the Recent 4200 Years as Revealed by Pollen Data and their Relationship to Prehistory Colonization由孢粉紀錄看宜蘭平原最近4200年來的自然環境演變及其與史前文化發展之關係, Department of Geosciences, National Taiwan University.
+
 
 ###Comment
 Eerkens, Jelmer W., and Carl P. Lipo. "Cultural transmission theory and the archaeological record: providing context to understanding variation and temporal changes in material culture." Journal of Archaeological Research 15.3 (2007): 239-274.
